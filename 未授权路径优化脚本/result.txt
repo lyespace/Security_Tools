@@ -1,0 +1,8 @@
+https://aaaa/com./index.d.ts
+https://aaaa/com/./
+https://aaaa/com/?_t=1
+https://aaaa/com/?_t=17291336024451
+https://aaaa/com/a/b
+https://aaaa/com/dist/
+https://aaaa/com/login.html
+https://aaaa/com/search.html
